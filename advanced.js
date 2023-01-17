@@ -103,7 +103,7 @@ let kain_pokemon = {
   }
 }
 let weight2 = kain_pokemon?.raichu?.power ??  'no power'
-
+let kain = "this is practice";
 
 // Nullish Coalescing Operator  
 
